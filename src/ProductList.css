@@ -126,7 +126,7 @@ body {
     cursor: not-allowed;
     transition: background-color 0.3s ease;
     transform: scale(0.98);
-  opacity: 0.7;
+    opacity: 0.7;
 }
 
 .product-button:hover:not(:disabled) {
@@ -282,7 +282,7 @@ body {
         align-items: center;
         /* Align items to the center of the container */
     }
-
+    
     .tag {
         margin-bottom: 20px;
         /* Add margin bottom for spacing */
